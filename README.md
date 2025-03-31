@@ -71,7 +71,7 @@ Steps to Run
 
 Clone this repository:
 
-git clone https://github.com/yourusername/django-signals-rectangle.git
+git clone https://github.com/kartikvedi/AccuKnox_Assignment.git
 cd django-signals-rectangle
 
 Ensure Django is installed:
